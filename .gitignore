@@ -1,0 +1,12 @@
+/build/
+/dist/
+/work/
+/.local/
+.vs/
+*.user
+*.suo
+*.log
+*.tmp
+settings.txt
+Thumbs.db
+Desktop.ini
