@@ -6,7 +6,7 @@
 
 ## 다운로드
 
-[화면지킴이 1.0.0 다운로드](https://github.com/holizero/screen-keeper/releases/tag/v1.0.0)에서 `화면지킴이.exe` 하나를 내려받아 실행합니다. 설치와 관리자 권한이 필요하지 않습니다. Windows 10/11과 .NET Framework 4.8 이상이 필요합니다.
+[화면지킴이 1.0.0 다운로드](https://github.com/holizero/screen-keeper/releases/tag/v1.0.0)에서 단일 실행 파일 `ScreenKeeper.exe`를 내려받아 실행합니다. Windows ZIP 안의 `화면지킴이.exe`와 동일한 파일입니다. 설치와 관리자 권한이 필요하지 않습니다. Windows 10/11과 .NET Framework 4.8 이상이 필요합니다.
 
 ## 소개와 사용법
 
